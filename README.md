@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-(Images/JRW-Project-Cloud-Security-and-Virtualization-Diagram.png)
+!(Images/JRW-Project-Cloud-Security-and-Virtualization-Diagram.png)
 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to recreate the entire deployment pictured above. Alternatively, select portions of the .yml file may be used to install only certain pieces of it, such as Filebeat.
@@ -31,7 +31,7 @@ Integrating an ELK server allows users to easily monitor the vulnerable VMs for 
  
 
 The configuration details of each machine may be found below.
-_Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
+
 
 | Name     | Function | IP Address | Operating System |
 |----------|----------|------------|------------------|
